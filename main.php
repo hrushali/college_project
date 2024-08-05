@@ -7,7 +7,7 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge"> 
   <title>Best Online Food Delivery Service in India | MyOnlineMeal.com</title> 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-  <link rel="stylesheet" href="style.css"> 
+  <link rel="stylesheet" href="styles.css"> 
   <link rel="stylesheet" media="screen and (max-width: 1170px)" href="phone.css"> 
   <link href="https://fonts.googleapis.com/css?family=Baloo+Bhai|Bree+Serif&amp;display=swap" rel="stylesheet"> 
  </head> 
@@ -41,7 +41,7 @@
   <class="icons">
     <!-- <a href="login/signup.php"><img src="https://cdn-icons-png.flaticon.com/128/1000/1000997.png" alt=""></a> -->
     <!-- <img src="https://cdn-icons-png.flaticon.com/128/4511/4511365.png" alt=""> -->
-    <form action=""></form><button onclick="login/signup.php" name="login" type="submit" value="login">login</button></form>
+    <form action="http://localhost/login/signup.php"></form><button onclick="login/signup.php" name="login" type="submit" value="login">login</button></form>
 
     <!-- <i class="fas fa-search" id="search-btn"></i> -->
     <!-- <i class="fas fa-user" id="logic-btn"></i> -->
